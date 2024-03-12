@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Author
+
+Stupid_Heart
+
+### Description
+
+Introducing an innovative search engine powered by cutting-edge technologies, our project leverages the versatility of ReactJS and the sleek design capabilities of Tailwind CSS to deliver a seamless user experience. By integrating the powerful Google Search API, our platform provides users with lightning-fast access to a wealth of information across the web. Whether searching for news, images, or any other online content, our search engine ensures accuracy and relevance, enhancing the way users discover information. With a clean and intuitive interface crafted with ReactJS and Tailwind CSS, coupled with the robust functionality of the Google Search API, our project represents the next generation of search engines, redefining how users interact with and access the vast resources of the internet.
